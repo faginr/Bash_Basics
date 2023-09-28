@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for (( i=5; i<20; i=i+2 )); do
+	echo "The counter is at: $i"
+done
